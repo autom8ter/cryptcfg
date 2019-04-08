@@ -2,7 +2,7 @@
 
 a golang library
 
-cryptcfg uses a key to decrypt a file thats been encrypted with the gocrypt cli tool at runtime, read in the config, and store the config in memory without ever decrypting the file on disk.
+cryptcfg uses a key to decrypt a file thats been encrypted with the Autom8ter gocrypt cli tool at runtime, read in the config, and store the config in memory without ever decrypting the file on disk.
 
 --
     import "github.com/autom8ter/cryptcfg"
